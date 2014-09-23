@@ -35,8 +35,8 @@
     "branch":      "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/proprietary_vendor_sony",
+    "repository": "AICP/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "branch":      "cm-11.0"
+    "branch":      "kitkat"
   }
 ]
