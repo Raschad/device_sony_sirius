@@ -10,7 +10,7 @@
     "branch":      "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/device_sony_shinano-common",
+    "repository": "CyanogenMod/android_device_sony_shinano-common",
     "target_path": "device/sony/shinano-common",
     "branch":      "cm-11.0"
   },
