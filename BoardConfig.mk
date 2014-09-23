@@ -28,6 +28,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/sirius/bluetooth
 BOARD_HARDWARE_CLASS += device/sony/sirius/cmhw
 
 # Kernel properties
+TARGET_KERNEL_SOURCE := kernel/sony/msm8974pro
 TARGET_KERNEL_CONFIG := cm_shinano_sirius_defconfig
 
 # Partition information
