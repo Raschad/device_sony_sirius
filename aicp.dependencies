@@ -10,6 +10,11 @@
     "branch":      "cm-11.0"
   },
   {
+    "repository": "CyanogenMod/android_device_sony_msm8974-common",
+    "target_path": "device/sony/msm8974-common",
+    "branch":      "cm-11.0"
+  },
+  {
     "repository": "AICP/device_sony_shinano-common",
     "target_path": "device/sony/shinano-common",
     "branch":      "kitkat"
