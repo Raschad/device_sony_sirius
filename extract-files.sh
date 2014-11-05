@@ -1,7 +1,10 @@
 #!/bin/bash
 
 export LC_ALL=C
-export DEVICE=${PWD##*/}
+
+FP=$(cd ${0%/*} && pwd -P)
+export VENDOR=$(basename $(dirname $FP))
+export DEVICE=$(basename $FP)
 export BOARDCONFIGVENDOR=true
 
 ../common/extract-files.sh $@
