@@ -28,9 +28,6 @@ PRODUCT_COPY_FILES += \
 # setup dalvik vm configs
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 
-# setup HWUI configs
-$(call inherit-product, frameworks/native/build/phone-xxhdpi-3072-hwui-memory.mk)
-
 # Include Vendor files
 $(call inherit-product, vendor/sony/sirius/sirius-vendor.mk)
 
