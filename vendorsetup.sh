@@ -1,2 +1,2 @@
-add_lunch_combo aicp_sirius-eng
-add_lunch_combo aicp_sirius-userdebug
+add_lunch_combo rr_sirius-eng
+add_lunch_combo rr_sirius-userdebug
