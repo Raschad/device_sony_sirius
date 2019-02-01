@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_sirius.mk
+    $(LOCAL_DIR)/aosp_sirius.mk
