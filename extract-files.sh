@@ -21,4 +21,4 @@ export DEVICE=sirius
 export DEVICE_COMMON=shinano-common
 export VENDOR=sony
 
- ./../../$VENDOR/$DEVICE_COMMON/setup-makefiles.sh $@
+ ./../../$VENDOR/$DEVICE_COMMON/extract-files.sh $@
